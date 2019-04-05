@@ -43,16 +43,40 @@
         ],
         "steps": [
             {
-                "title": "",
+                "title": "Couper la rallonge en 2",
                 "duration": 300,
-                "content": "blibli"
+                "content": "Couper la rallonge usb en 2 et dénuder les extrémités des fils"
             }
         ],
         "featured_images": [
             {
                 "image": {
-                    "url": "",
-                    "caption": ""
+                    "url": "images/IMG_3911.JPG",
+                    "caption": "Couper et dénuder les fils"
+                }
+            },
+            {
+                "image": {
+                    "url": "images/IMG_3907.JPG",
+                    "caption": "Souder la stripboard sur la carte usb"
+                }
+            },
+            {
+                "image": {
+                    "url": "images/IMG_3909.JPG",
+                    "caption": "Repérer les fils en testant la continuité entre l'extrémité et le connecteur usb femelle"
+                }
+            },
+            {
+                "image": {
+                    "url": "images/IMG_3910.JPG",
+                    "caption": "Repérer les fils en testant la continuité entre l'extrémité et le connecteur usb mâle"
+                }
+            },
+            {
+                "image": {
+                    "url": "images/IMG_3912.JPG",
+                    "caption": "Relier les Vcc, les Gnd, les D+ et les D-"
                 }
             }
         ]
