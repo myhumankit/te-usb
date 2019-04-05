@@ -45,7 +45,15 @@
             {
                 "title": "Couper la rallonge en 2",
                 "duration": 300,
-                "content": "Couper la rallonge usb en 2 et dénuder les extrémités des fils"
+                "content": "Couper la rallonge usb en 2 et dénuder les extrémités des fils",
+                "media": [
+                    {
+                        "image": {
+                            "url": "",
+                            "caption": ""
+                        }
+                    }
+                ]
             }
         ],
         "featured_images": [
