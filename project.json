@@ -49,8 +49,60 @@
                 "media": [
                     {
                         "image": {
-                            "url": "",
-                            "caption": ""
+                            "url": "images/IMG_3911.JPG",
+                            "caption": "Couper et dénuder les fils"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Souder la stripboard sur la carte usb",
+                "duration": 300,
+                "content": "",
+                "media": [
+                    {
+                        "image": {
+                            "url": "images/IMG_3907.JPG",
+                            "caption": "Souder la stripboard sur la carte usb"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Repérer les fils en testant la continuité entre l'extrémité et le connecteur usb femelle",
+                "duration": 300,
+                "content": "",
+                "media": [
+                    {
+                        "image": {
+                            "url": "images/IMG_3909.JPG",
+                            "caption": "Repérer les fils en testant la continuité entre l'extrémité et le connecteur usb femelle"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Repérer les fils en testant la continuité entre l'extrémité et le connecteur usb mâle",
+                "duration": 300,
+                "content": "",
+                "media": [
+                    {
+                        "image": {
+                            "url": "images/IMG_3910.JPG",
+                            "caption": "Repérer les fils en testant la continuité entre l'extrémité et le connecteur usb mâle"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Relier les Vcc, les Gnd, les D+ et les D-",
+                "duration": 300,
+                "content": "",
+                "media": [
+                    {
+                        "image": {
+                            "url": "images/IMG_3912.JPG",
+                            "caption": "Relier les Vcc, les Gnd, les D+ et les D-"
                         }
                     }
                 ]
@@ -59,32 +111,8 @@
         "featured_images": [
             {
                 "image": {
-                    "url": "images/IMG_3911.JPG",
-                    "caption": "Couper et dénuder les fils"
-                }
-            },
-            {
-                "image": {
-                    "url": "images/IMG_3907.JPG",
-                    "caption": "Souder la stripboard sur la carte usb"
-                }
-            },
-            {
-                "image": {
-                    "url": "images/IMG_3909.JPG",
-                    "caption": "Repérer les fils en testant la continuité entre l'extrémité et le connecteur usb femelle"
-                }
-            },
-            {
-                "image": {
-                    "url": "images/IMG_3910.JPG",
-                    "caption": "Repérer les fils en testant la continuité entre l'extrémité et le connecteur usb mâle"
-                }
-            },
-            {
-                "image": {
-                    "url": "images/IMG_3912.JPG",
-                    "caption": "Relier les Vcc, les Gnd, les D+ et les D-"
+                    "url": "images/IMG_3905.JPG",
+                    "caption": "Les éléments nécessaires"
                 }
             }
         ]
