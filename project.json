@@ -4,7 +4,7 @@
         "slug": "te-usb",
         "short_description": "C'est un projet visant à créer un câble usb permettant à un téléphone portable d'être chargé par une batterie externe en même temps qu'utilisé avec une souris pour être piloté par un dispositif de contrôle.",
         "lang": "fr",
-        "license": "CC BY",
+        "license": "CC BY-SA",
         "about": "C'est un projet visant à créer un câble usb permettant à un téléphone portable d'être chargé par une batterie externe en même temps qu'utilisé avec une souris pour être piloté par un dispositif de contrôle.",
         "status": "draft",
         "links": [
@@ -32,9 +32,28 @@
         "contributors": [
             {
                 "full_name": "Yohann Véron",
+                "role": "Fabmanager référent",
                 "email": "yo@myhumankit.org",
-                "github_username": "dubhalley",
-                "role": "Fabmanager référent"
+                "github_username": "dubhalley"
+            },
+            {
+                "full_name": "Nicolas Pousset",
+                "role": "Porteur de projet"
+            }
+        ],
+        "steps": [
+            {
+                "title": "",
+                "duration": 300,
+                "content": "blibli"
+            }
+        ],
+        "featured_images": [
+            {
+                "image": {
+                    "url": "",
+                    "caption": ""
+                }
             }
         ]
     }
