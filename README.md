@@ -4,7 +4,7 @@
 
 C'est un projet visant à créer un câble usb permettant à un téléphone portable d'être chargé par une batterie externe en même temps qu'utilisé avec une souris pour être piloté par un dispositif de contrôle.
 
-![featured_image](https://raw.githubusercontent.com/myhumankit/myworkshop/master/images/default_featured_image.jpg)
+![featured_image](images/IMG_3905.JPG)
 
 ## Liens
  * [documentation du projet](https://docs.humanlab.me/myhumankit/te-usb)
